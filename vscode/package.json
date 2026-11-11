@@ -112,13 +112,13 @@
   "dependencies": {
     "@iarna/toml": "^2.2.5",
     "@solana-playground/seahorse-compile": "../wasm/seahorse-compile/pkg",
-    "@solana/web3.js": "^1.66.2",
-    "lodash": "^4.17.21",
+    "@solana/web3.js": "^3.2.1",
+    "lodash": "^4.18.1",
     "node-fetch": "^3.2.10"
   },
   "devDependencies": {
     "@types/glob": "^7.2.0",
-    "@types/lodash": "^4.14.187",
+    "@types/lodash": "^4.17.27",
     "@types/mocha": "^9.1.1",
     "@types/node": "16.x",
     "@types/vscode": "^1.72.0",
@@ -130,7 +130,7 @@
     "mocha": "^10.0.0",
     "ts-loader": "^9.3.1",
     "typescript": "^4.7.4",
-    "webpack": "^5.74.0",
+    "webpack": "^5.112.2",
     "webpack-cli": "^4.10.0"
   }
 }
